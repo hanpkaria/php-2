@@ -7,7 +7,8 @@ $schoolnaam = "Techniek College Rotterdam !";
 
 
 echo "$schoolnaam";
-$eigenVariabele = "Dit is mijn eigen variabele."
+$eigenVariabele = "Dit is mijn eigen variabele.";
+
 echo "<p>$eigenVariabele</p>";
 
 ?>
