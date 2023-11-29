@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body{
+  background: #2978A0;
+  }
+  
+  .button_home {
+        background-color: #C6E0FF;
+        border: none;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 70px;
+        margin: 90px 50px;
+        cursor: pointer;
+        font-family: 'Times New Roman', Times, serif;
+        max-width: 40%;
+        max-height: 300%;
+  
+        
+  
+  }
+  .flex-container_home{
+    display: flex;
+    flex-direction: column;
+  
+  
+    
+  }
